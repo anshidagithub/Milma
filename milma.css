@@ -1,0 +1,66 @@
+
+
+.navbg{
+    background-color: rgb(50, 49, 49);
+
+}
+
+.containerbgimage{
+width: 100%;
+height: 400px;
+background-image: url(milma1.jpg);
+background-size: 1200px;
+
+}
+
+
+.containerbgimage1{
+    width: 100%;
+    height: 480px;
+    background-image: url(milma2.jpg);
+    background-size: 1200px;
+    
+    }
+    
+    .bg4{
+        background-color: rgb(124, 130, 14);
+    }
+
+    .bgunit1{
+        background-image: url(unit3.jpeg);
+      
+        height: 350px;
+    }
+
+    
+
+    .bgunit2{
+        background-image: url(unit6.jpeg);
+       
+        height: 350px;
+    }
+    
+
+    .bgunit3{
+        background-image: url(unit3.jpeg);
+      
+        height: 350px;
+    }
+    
+
+    .bgunit4{
+        background-image: url(unit6.jpeg);
+       
+        height: 350px;
+    }
+    
+ .overlay {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(26,59,60, 0.75);
+}
+
+ul:hover{
+    color: rgb(255, 255, 0);
+}
